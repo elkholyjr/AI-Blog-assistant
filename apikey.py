@@ -1,0 +1,1 @@
+google_gemini_api_key = "AIzaSyCtORsRXUGG5S43s3fdOKS25MuQBnV7F1s"
