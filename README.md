@@ -1,5 +1,6 @@
 # ✍️ AI Blog Assistant
 Link: https://ai-blog-assistant.streamlit.app/
+<img width="1206" height="684" alt="image" src="https://github.com/user-attachments/assets/e877f374-edb2-4255-873a-c5e6617b972e" />
 
 
 An intelligent, interactive **AI-powered blog post generator** built with **Streamlit** and **Google Gemini Pro (gemini-2.5-pro)**.
