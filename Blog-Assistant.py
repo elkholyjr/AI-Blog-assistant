@@ -50,7 +50,6 @@ with st.sidebar:
     blog_title = st.text_input("Enter the blog title:")
     blog_keywords = st.text_area("Keywords (comma-separated):")
     number_words = st.slider("Number of words:", min_value=100, max_value=3000, value=100)
-    num_images = st.number_input("Number of images:", min_value=1, max_value=10, step=1)
     submit_button = st.button("Generate Blog Post")
 
 if submit_button:
