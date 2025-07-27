@@ -1,9 +1,7 @@
 import streamlit as st
-import google.generativeai as genai
+from google import genai
 from google.genai import types
-from apikey import google_gemini_api_key
-  
-genai.configure(api_key="your-api-key")  # or use secrets
+from apikey import google_gemini_api_key  
 
 def generate(blog_title, blog_keywords, number_words):
     client = genai.Client(
