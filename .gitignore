@@ -1,4 +1,4 @@
-apikey.pSy
+apikey.py
 __pycache__/
 *.pyc
 .env
