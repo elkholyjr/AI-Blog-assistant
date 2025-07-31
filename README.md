@@ -1,17 +1,17 @@
-# ✍️ AI Blog Assistant
+# AI Blog Assistant
 Link: https://ai-blog-assistant.streamlit.app/
 <img width="1206" height="684" alt="image" src="https://github.com/user-attachments/assets/e877f374-edb2-4255-873a-c5e6617b972e" />
 
 
 An intelligent, interactive **AI-powered blog post generator** built with **Streamlit** and **Google Gemini Pro (gemini-2.5-pro)**.
 
-## 📌 Project Overview
+## Project Overview
 
 This tool allows users to generate engaging, informative, and keyword-rich blog posts simply by entering a blog title, keywords, and desired word count. It leverages Google's Gemini Pro LLM via API to generate high-quality blog content in real time.
 
 ---
 
-## 🚀 Features
+## Features
 
 - Input blog title and keywords
 - Choose word count (100 to 3000)
@@ -22,7 +22,7 @@ This tool allows users to generate engaging, informative, and keyword-rich blog 
 
 ---
 
-## 🧠 How It Works
+## How It Works
 
 1. The user provides:
    - Blog Title
@@ -38,7 +38,7 @@ This tool allows users to generate engaging, informative, and keyword-rich blog 
 
 ---
 
-## 🔧 Technologies Used
+## Technologies Used
 
 - `Python`
 - `Streamlit`
@@ -47,7 +47,7 @@ This tool allows users to generate engaging, informative, and keyword-rich blog 
 
 ---
 
-## 🛠️ Challenges Faced & How I Solved Them
+## Challenges Faced & How I Solved Them
 
 | Challenge | Solution |
 |----------|----------|
@@ -58,7 +58,7 @@ This tool allows users to generate engaging, informative, and keyword-rich blog 
 
 ---
 
-## 🧪 Example Prompt
+## Example Prompt
 
 **Title**: "The Future of AI in Content Creation"  
 **Keywords**: "AI blogging, content automation, Gemini Pro"  
@@ -68,10 +68,10 @@ The app will generate a full blog post based on this setup.
 
 ---
 
-## 🗂️ File Structure
+## File Structure
 
 ```
-📁 AI-Blog-Assistant
+    AI-Blog-Assistant
 ├── apikey.py              # Your secure Google Gemini API key
 ├── main.py                # Main Streamlit app file
 ├── README.md              # This file
